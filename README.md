@@ -8,7 +8,7 @@ And heavily influenced by:
   
 and  
   
-> Wang, S. B., Robinaugh, D., Millner, A., Fortgang, R., & Nock, M. (2023, September 24). Mathematical and Computational Modeling of Suicide as a Complex Dynamical System. [https://doi.org/10.31234/osf.io/b29cs](https://osf.io/preprints/psyarxiv/b29cs)  
+> Wang, S. B., Robinaugh, D., Millner, A., Fortgang, R., & Nock, M. (2023, September 24). Mathematical and Computational Modeling of Suicide as a Complex Dynamical System. [https://doi.org/10.31234/osf.io/b29cs](https://osf.io/preprints/psyarxiv/b29cs); Code available [here](https://github.com/ShirleyBWang/math_model_suicide)
   
 both preprints!  
 

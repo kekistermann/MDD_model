@@ -14,3 +14,8 @@ both preprints!
 
 #### Causal Loop Diagram:
 ![Model of MDD - FINAL!](https://github.com/user-attachments/assets/77b1b402-9b0d-4a3d-9f10-aa368caf3bd8)
+
+
+#### My Master-Thesis:
+
+[Masterarbeit_v1.1.pdf](https://github.com/user-attachments/files/16786306/Masterarbeit_v1.1.pdf)

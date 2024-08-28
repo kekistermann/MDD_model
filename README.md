@@ -1,1 +1,1 @@
-# MDD_model
+# Proposal for a computational model of MDD

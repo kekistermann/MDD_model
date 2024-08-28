@@ -12,7 +12,7 @@ and
 
 
 #### Causal Loop Diagram:
-References to numbers are in Appendix of (Wittenborn et al. 2016).
+References to the numbers are in Appendix of (Wittenborn et al. 2016).
 ![Model of MDD - FINAL!](https://github.com/user-attachments/assets/77b1b402-9b0d-4a3d-9f10-aa368caf3bd8)  
 
 

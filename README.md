@@ -1,6 +1,6 @@
 # Computational Model of Major Depressive Disorder (MDD)
 
-It is based on:
+It is based on the causal loop diagram proposed in:
 > Wittenborn AK, Rahmandad H, Rick J, Hosseinichimeh N. Depression as a systemic syndrome: mapping the feedback loops of major depressive disorder. Psychol Med. 2016 Feb;46(3):551-62. [doi: 10.1017/S0033291715002044](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4737091/). Epub 2015 Dec 1. PMID: 26621339; PMCID: PMC4737091.
 
 And in the approach to build a computational model out of the causal feedback loop diagram proposed in (Wittenborn et al. 2016), my attempt is influenced by: 

@@ -13,6 +13,8 @@ and
 
 #### Causal Loop Diagram:
 References to the numbers are in Appendix of (Wittenborn et al. 2016).
+
+This is my slightly modified version of the feedback mechanisms in Major Depressive Disorder (MDD). Green arrows with empty head reduce and red arrows with filled head increase variable values. The components can roughly be grouped into “Psychological” (green), “Neurobiological” (purple) and fixed variables (light orange). Variables with dashed borders change over weeks/months and variables with solid border change over minutes. 
 ![Model of MDD - FINAL!](https://github.com/user-attachments/assets/77b1b402-9b0d-4a3d-9f10-aa368caf3bd8)  
 
 

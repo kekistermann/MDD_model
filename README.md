@@ -19,5 +19,4 @@ This is my slightly modified version of the feedback mechanisms in Major Depress
 
 
 #### My Master-Thesis:
-
-[Masterarbeit_v1.1.pdf](https://github.com/user-attachments/files/16786306/Masterarbeit_v1.1.pdf)
+[Masterarbeit_v2.3.pdf](https://github.com/user-attachments/files/17043091/Masterarbeit_v2.3.pdf)
